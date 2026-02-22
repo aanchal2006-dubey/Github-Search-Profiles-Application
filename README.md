@@ -53,17 +53,6 @@ GET https://api.github.com/users/{username}/repos?sort=created
 
 ---
 
-## 📂 Project Structure
-
-Github-Profile-Search/
-|
-|---index.html
-|---styles.css
-|---scripts.js
-|___README.md
-
----
-
 ## ⚙️ How the Project Works
 
 1. The user enters a GitHub username.
